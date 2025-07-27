@@ -40,5 +40,5 @@ Copiar código
 1. **Clona este repositorio**
 
 ```bash
-git clone https://github.com/TU_USUARIO/credit-card-analysis.git
+git clone [https://github.com/TU_USUARIO/credit-card-analysis.git](https://github.com/Hakerman564/credit-card-analysis.git)
 cd credit-card-analysis
